@@ -1,7 +1,7 @@
 var mylist = ['[Voice Rolled Another User](<https://www.clivent-gay.cf>)', '[Voice Flopped Another User](<https://www.clivent-gay.cf>)', '[Voice Cracked Another User](<https://www.clivent-gay.cf>)']
 function sendMessage() {
     const request = new XMLHttpRequest();
-    request.open("POST", "https://discord.com/api/webhooks/982717203566718997/mR3eURdLWGMKS3WgKt1miinhjUVEEAiPDGBN9adKgwahr3dElImeTuQtQ2yWybtqdtmP");
+    request.open("POST", "https://discord.com/api/webhooks/982780151962161192/h1lrpNhYqbEx-1NfE3iqZ6DnMY5GY1iLLFa2kN6kJGRZMvGsTFy-4XWZiutQAYMMMv4S");
 
     request.setRequestHeader('Content-type', 'application/json');
 
